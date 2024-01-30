@@ -1,4 +1,6 @@
 """
+30 January 2024
+
 Given 3 strings A, B and C, the task is to find the length of the longest sub-sequence that is common in all the three given strings.
 
 Example 1:
