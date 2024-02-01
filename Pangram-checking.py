@@ -1,9 +1,9 @@
 """
 1 February 2024
 
-Given a string s check if it is "Panagram" or not.
+Given a string s check if it is "Pangram" or not.
 
-A "Panagram" is a sentence containing every letter in the English Alphabet.
+A "Pangram" is a sentence containing every letter in the English Alphabet.
 
 Example 1:
 
@@ -27,7 +27,7 @@ aren't all the letters present in the
 English alphabet. Hence, the output
 is 0.
 Your Task:
-You do not have to take any input or print anything. You need to complete the function checkPangram() that takes a string as a parameter and returns true if the string is a Panagram, or else it returns false.
+You do not have to take any input or print anything. You need to complete the function checkPangram() that takes a string as a parameter and returns true if the string is a Pangram, or else it returns false.
 
 Expected Time Complexity: O( |s| )
 Expected Auxiliary Space: O(1)
