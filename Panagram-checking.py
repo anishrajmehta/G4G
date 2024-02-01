@@ -1,4 +1,6 @@
 """
+1 February 2024
+
 Given a string s check if it is "Panagram" or not.
 
 A "Panagram" is a sentence containing every letter in the English Alphabet.
