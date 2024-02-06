@@ -149,7 +149,7 @@ Node* buildTree(string str)
 	int data;
 	Node *left, *right;
 };
-
+*/
 
 class Solution {
     int count;
