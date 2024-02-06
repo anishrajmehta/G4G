@@ -144,7 +144,8 @@ Node* buildTree(string str)
 
 // } Driver Code Ends
 //Node Structure
-/*struct NodeGiven a binary tree with n nodes and a non-negative integer k, the task is to count the number of special nodes. A node is considered special if there exists at least one leaf in its subtree such that the distance between the node and leaf is exactly k.
+/*
+struct NodeGiven a binary tree with n nodes and a non-negative integer k, the task is to count the number of special nodes. A node is considered special if there exists at least one leaf in its subtree such that the distance between the node and leaf is exactly k.
 {
 	int data;
 	Node *left, *right;
