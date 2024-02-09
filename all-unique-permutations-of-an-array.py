@@ -1,4 +1,4 @@
-/*
+"""
 
 17 January 2024
 
@@ -35,7 +35,7 @@ Constraints:
 1 ≤ n ≤ 9
 1 ≤ arri ≤ 9
 
-*/
+"""
 
 #User function Template for python3
 
